@@ -3,7 +3,7 @@
 Full-Stack Web Developer & Technical SEO Specialist building fast, scalable web apps with **Next.js, React, TypeScript, and Supabase**.
 
 - 🏆 **Top 25 Winner** at NYLP AI Hackathon 2026 (`ProofOfSkill`)
-- 💻 Currently building a full-stack e-commerce platform & custom web tools
+- 💻 Currently building a custom full-stack clothing e-commerce platform & web tools
 - 📈 Combining modern web development with Technical & Off-Page SEO
 
 ---
@@ -22,14 +22,15 @@ Full-Stack Web Developer & Technical SEO Specialist building fast, scalable web 
 
 ### Featured Projects
 
-- **[ProofOfSkill](https://github.com/alizahfatima92/proof-of-skill)** — AI-powered developer authenticity & GitHub comparison app *(Top 25, NYLP AI Hackathon 2026)*
-- **[TryFit Mirror App](https://github.com/alizahfatima92/tryfit-mirror-app)** — TypeScript web app *(yahan apni 1-line summary add karein)*
-- **[E-Commerce Platform](https://github.com/alizahfatima92/ecommerce)** — Full-stack clothing store built with Next.js App Router, Tailwind CSS & Supabase
-- **[Portfolio Website](https://github.com/alizahfatima92/alizah-portfolio)** — Personal developer & SEO portfolio
+- **[ProofOfSkill](https://github.com/alizahfatima92/proof-of-skill)** — AI-powered developer authenticity & GitHub comparison app *(Top 25, NYLP AI Hackathon 2026)* · [Live Demo](https://proofofskills.netlify.app)
+- **[TryFit Mirror App](https://github.com/alizahfatima92/tryfit-mirror-app)** — Interactive virtual try-on mirror web application built with TypeScript
+- **E-Commerce Platform** *(In Progress)* — Full-stack clothing store built with Next.js App Router, TypeScript, Tailwind CSS & Supabase
+- **[Portfolio Website](https://github.com/alizahfatima92/alizah-portfolio)** — Personal developer & SEO portfolio · [Live Site](https://alizahfatima92.github.io/alizah-portfolio/)
 
 ---
 
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alizahfatima92)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://alizahfatima92.github.io/alizah-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleezey92@gmail.com)
